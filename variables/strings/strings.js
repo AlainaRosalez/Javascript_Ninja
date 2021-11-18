@@ -25,7 +25,7 @@ console.log(warninglabel);
 console.log(driverGreeting)
 
 console.log(`I am ${firstName}`);
-//? Prints concatenated greeting
+//? Prints concatenated greeting  
+//todo: Concatenation = combining 2 strings
 console.log(greeting)
 
-//! Just a test comment.
